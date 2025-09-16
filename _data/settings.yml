@@ -8,7 +8,14 @@ google-ID: ''
 
 menu:
   - name: Le Club
-    link: /le-club
+    submenu:
+      - name : Présentation
+        link: /le-club
+      - name : Les entrainements
+        link: /le-club
+      - name : Actualités
+        link: /
+
   - name: Inscription
     link: /inscription
   - name: Le Volley
@@ -16,6 +23,8 @@ menu:
       - name: Les Règles
         link: /volley/regles
       - name: L'équipe de France
+        link: /volley/team-france
+      - name: Exrecices
         link: /volley/team-france
   - name: Contact
     link: /contact

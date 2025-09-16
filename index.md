@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Accueil
+title: Actualités
 ---
 
 # Bienvenue sur le site du VBVA
