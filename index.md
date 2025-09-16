@@ -3,9 +3,8 @@ layout: home
 title: Accueil
 ---
 
-# Bienvenue sur mon site vitrine
+# Bienvenue sur le site du VBVA
 
-Ceci est ma première page avec Jekyll 🚀
+Cette page est en construction 🚀
 
-- Une présentation rapide
-- Un lien de contact : [email@example.com](mailto:email@example.com)
+Vous y retrouverez bientot les actualités du club.
