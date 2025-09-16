@@ -79,6 +79,7 @@ h3:before {
 
 .navbar-default .navbar-brand {
 	color: #ffffff;
+	padding: 4.5px 15px;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
