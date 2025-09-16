@@ -70,6 +70,19 @@ h3:before {
 	display: inline-block;
 }
 
+.footer-copyright {
+	margin: 0 0 0 0em;
+	padding: 0;
+	float: left;
+	text-align: left;
+}
+
+.footer-copyright>li {
+	padding-left: 1em;
+	display: inline-block;
+}
+
+
 .navbar-default {
 	background-color: black;
 	border-color: #12421f;
