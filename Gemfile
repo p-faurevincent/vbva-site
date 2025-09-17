@@ -8,7 +8,7 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.2"
 
 gem "jekyll-sitemap"
 
