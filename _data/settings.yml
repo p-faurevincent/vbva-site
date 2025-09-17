@@ -12,7 +12,7 @@ menu:
       - name : Présentation
         link: /le-club
       - name : Les entrainements
-        link: /le-club
+        link: /entrainements
       - name : Actualités
         link: /
 
