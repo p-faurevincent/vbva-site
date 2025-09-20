@@ -18,4 +18,4 @@ top-image: top.jpg
 
 L'association n'a pas encore tous ses ballons, si vous en avez un, vous pouvez venir avec 🏐
 
-![Les ballons du club](/assets/images/{{page.id}}/ballons.jpg "Les ballons du club")
+<img src="/assets/images/{{page.id}}/ballons.jpg" alt="Les ballons du club" width="50%"/>
