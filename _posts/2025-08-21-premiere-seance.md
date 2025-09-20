@@ -5,6 +5,7 @@ date: 2025-08-21 19:00:00 +0200
 comments: false
 categories: actu
 tags: [actu]
+top-image: top.jpg
 ---
 
 ## La première séance de volley à eu lieu ce jeudi 21 ! 
